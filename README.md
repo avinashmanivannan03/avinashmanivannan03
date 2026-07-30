@@ -77,9 +77,6 @@ An Agentic AI translation platform built with CrewAI and LangGraph, using a mult
 **Dynamo AI**
 A multilingual enterprise chatbot built on a Retrieval Augmented Generation framework with LlamaIndex, featuring role based access control and two factor authentication for secure organizational use.
 
-**Leaf Disease Detection**
-A convolutional neural network based system for early agricultural disease diagnosis, built with TensorFlow and Keras.
-
 **Inspectra**
 A SQL injection detection system combining graph learning and deep learning techniques for security analysis.
 
@@ -87,16 +84,10 @@ Pinned repositories below reflect ongoing and recent work in retrieval systems, 
 
 ---
 
-## Currently Exploring
-
-Comparative retrieval architectures, including reasoning based document retrieval and structured knowledge formats as alternatives to traditional vector search, along with secure, identity aware patterns for multi agent systems.
-
----
-
 <div align="center">
 
 Open to collaborations, technical discussions and interesting problems worth solving.
 
-[LinkedIn](https://www.linkedin.com/in/m-avinash) · [Email](mailto:avinashmanivannan03@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/m-avinash) · [Email](mailto:avinashmanivannan03@gmail.com) · [Medium](https://medium.com/@avinashmanivannan03)
 
 </div>
